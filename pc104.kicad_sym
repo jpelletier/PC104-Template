@@ -1631,7 +1631,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -2.5925 180)
+				(at 25.4 -2.54 180)
 				(length 7.62)
 				(name "0V"
 					(effects
@@ -1649,7 +1649,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -5.1325 180)
+				(at 25.4 -5.08 180)
 				(length 7.62)
 				(name "~{MEMCS16}"
 					(effects
@@ -1667,7 +1667,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -27.9925 180)
+				(at 25.4 -27.94 180)
 				(length 7.62)
 				(name "~{DACK5}"
 					(effects
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -30.5325 180)
+				(at 25.4 -30.48 180)
 				(length 7.62)
 				(name "DRQ5"
 					(effects
@@ -1703,7 +1703,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -33.0725 180)
+				(at 25.4 -33.02 180)
 				(length 7.62)
 				(name "~{DACK6}"
 					(effects
@@ -1721,7 +1721,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -35.6125 180)
+				(at 25.4 -35.56 180)
 				(length 7.62)
 				(name "DRQ6"
 					(effects
@@ -1739,7 +1739,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -38.1525 180)
+				(at 25.4 -38.1 180)
 				(length 7.62)
 				(name "~{DACK7}"
 					(effects
@@ -1757,7 +1757,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -40.6925 180)
+				(at 25.4 -40.64 180)
 				(length 7.62)
 				(name "DRQ7"
 					(effects
@@ -1775,7 +1775,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -43.2325 180)
+				(at 25.4 -43.18 180)
 				(length 7.62)
 				(name "+5V"
 					(effects
@@ -1793,7 +1793,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -45.7725 180)
+				(at 25.4 -45.72 180)
 				(length 7.62)
 				(name "~{MASTER}"
 					(effects
@@ -1811,7 +1811,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -48.3125 180)
+				(at 25.4 -48.26 180)
 				(length 7.62)
 				(name "0V"
 					(effects
@@ -1829,7 +1829,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -50.8525 180)
+				(at 25.4 -50.8 180)
 				(length 7.62)
 				(name "0V"
 					(effects
@@ -1847,7 +1847,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -7.6725 180)
+				(at 25.4 -7.62 180)
 				(length 7.62)
 				(name "~{IOCS16}"
 					(effects
@@ -1883,7 +1883,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -12.7525 180)
+				(at 25.4 -12.7 180)
 				(length 7.62)
 				(name "IRQ11"
 					(effects
@@ -1901,7 +1901,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -15.2925 180)
+				(at 25.4 -15.24 180)
 				(length 7.62)
 				(name "IRQ12"
 					(effects
@@ -1919,7 +1919,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -17.8325 180)
+				(at 25.4 -17.78 180)
 				(length 7.62)
 				(name "IRQ15"
 					(effects
@@ -1937,7 +1937,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -20.3725 180)
+				(at 25.4 -20.32 180)
 				(length 7.62)
 				(name "IRQ14"
 					(effects
@@ -1955,7 +1955,7 @@
 				)
 			)
 			(pin passive inverted
-				(at 25.4829 -22.9125 180)
+				(at 25.4 -22.86 180)
 				(length 7.62)
 				(name "~{DACK0}"
 					(effects
@@ -1973,7 +1973,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4829 -25.4525 180)
+				(at 25.4 -25.4 180)
 				(length 7.62)
 				(name "DRQ0"
 					(effects
